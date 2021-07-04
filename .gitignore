@@ -7,6 +7,9 @@ build/
 
 HELP.md
 
+gradlew
+gradlew.bat
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -59,9 +62,8 @@ cmake-build-*/
 out/
 venv/
 gradle/
+gradle/wrapper/
 .gradle/
-gradlew
-gradlew.bat
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
