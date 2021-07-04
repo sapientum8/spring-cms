@@ -1,1 +1,1 @@
-# spring-cms
+# Xcms project v. 0.1
