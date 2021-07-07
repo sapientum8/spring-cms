@@ -1,3 +1,4 @@
+@file:JvmName("XcmsCore")
 package com.sapientum8.xcms
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
