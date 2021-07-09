@@ -1,1 +1,1 @@
-# Xcms project v. 0.1
+# XCms project v. 0.1
